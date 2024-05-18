@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Groupalarm Monitor Schoner",
-    "description": "Bildschirmschoner der aus geht wenn gerät online ist",
+    "name": "Werbungsanalysetool",
+    "description": "sendet gefundene Werbung an discord chat",
     "version": "1.0",
     "icons": {
       "16": "images/LOGO_16.png",
@@ -17,7 +17,7 @@
         ],
         "matches": 
         [
-          "https://app.groupalarm.com/*"
+          "https://www.youtube.com/*"
         ]
       }
     ]
